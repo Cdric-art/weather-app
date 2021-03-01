@@ -1,8 +1,9 @@
 import React, {useEffect, useState} from 'react'
+
 import {timestampParser} from "./lib/date";
+import {wait} from "./lib/wait";
 
 import {API} from './apiConfig';
-import {wait} from "./lib/wait";
 
 function App() {
 
