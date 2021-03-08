@@ -37,7 +37,7 @@
 Pas simple de trouver une équipe prête à vous donner une chance quand vous êtes développeur junior et encore plus par ces temps de Covid...
 
 
-J'ai crèe ce projet pour:
+J'ai crée ce projet pour:
 * M'exercer sur React
 * Avoir un projet supplémentaire à présenter aux recruteurs
 
